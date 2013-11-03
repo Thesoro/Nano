@@ -65,9 +65,16 @@ story = "One figure spotted another crossing the bridge. The latter swiveled hea
 	Former slowly turned away and back to the main road. Keeping her head and feet down, she walked with such quiet, inward-facing disappointment that when the alcove looked at her again, it barely recognized her.
 
 	day 2
-	There was a bridge. Primarily constructed from basalt quarried 15 kilometers to this location, cut by masons and stuck together with high quality mortar. A city contract, with all its problems and rewards. Went to the lowest bidder, of course, but a decent quality build nonetheless. The bridge can withstand its own weight, of course, and then another three quarters of that on top of it. Not the best ratio for a bridge, but decent enough for the traffic that would be going on it. A this moment, several things were affecting the bridge. For one, the temperature was ten degrees centigrade, which caused some mild contraction. Basalt
+	There was a bridge. Primarily constructed from basalt quarried 15 kilometers to this location, cut by masons and stuck together with high quality mortar. A city contract, with all its problems and rewards. Went to the lowest bidder, of course, but a decent quality build nonetheless. The bridge would withstand its own weight, of course, and then another three quarters of that on top of it. Not the best ratio for a bridge, but decent enough for the traffic that would be going on it. At this moment, several things were affecting the bridge.
+	For one, the temperature was ten degrees centigrade, which caused some mild contraction compared to the median temperature. Basalt, like most stone, does not significantly expand or contract with most common temperatures in habitable conditions, and the builders did not have to change their plans much to account for it. 
+	The bridge was also wet. It had rained earlier, around a centimeter, and the moisture already in the air did not permit it to evaporate. The water reduced friction on its surface, diffused and carried away small amounts of animal waste, and eroded miniscules amounts of material from the basalt and mortar.
+	The bridge had a single...occupant? Passenger? In any case, only one person was on the bridge. She weighed 82 kilograms, well within engineering limitations, with many kilograms to spare. The strain of the traveler was nothing compared to the livestock, dray animals, and carts the bridge handled, often many simultaneously, every day.	The bridge frequently had individuals cross it late at night, and while this particular transitor's gait was fairly near its resonant frequency, the amplitude of her footsteps was so small as to make that a complete non-factor.
+		The bridge was, all in all, unchanged by her transit.
 
-	"
+		A few minutes passed. Some extremely mild vibrations traveled through the air to impact the bridge, to no effect. Their frequency modulated in various ways. Some parts were repeated and were very slightly rhythmic. In another context they might have conveyed information from one entity to another. But again, these vibrations did not affect the bridge in any way.
+
+		A few moments after the vibrations ended, the transitor passed back over the bridge, again affecting the bridge in only the completely normal and mundane ways that it was affected by things every day and causing no lasting change. Rain began to fall, exerting a very mild force on the bridge and adding more wetness. The bridge's frictional coefficient fell.
+			"
 	#"bridget"
 a= stream.split.length
 b =story.split.length
